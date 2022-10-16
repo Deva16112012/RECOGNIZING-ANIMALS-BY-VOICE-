@@ -1,0 +1,33 @@
+.j{
+    background-color: white;
+    color: rebeccapurple;
+}
+body{
+    font-family:'Special Elite', cursive;
+    background-color: #ffccca;
+}
+#s button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.j p{
+    font-family: 'Roboto', sans-serif;
+    color: gainsboro;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#r{
+    bottom:0;
+    position: fixed;
+    color: magenta;
+    background-color: cyan;
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px black;
+}
